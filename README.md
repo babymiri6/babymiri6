@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Web development projects
 - 📫 How to reach me miriamephraim9@gmail.com
-- 😄 Pronouns: She
 - ⚡ Fun fact: ...
 
 <!---
